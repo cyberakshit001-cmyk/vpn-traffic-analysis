@@ -16,7 +16,7 @@ Network traffic was captured with VPN OFF and then with VPN ON while visiting go
 #### Without VPN
 DNS queries and website IPs were visible, revealing which websites were accessed.
 
-Screenshots/no_vpn.png
+![No_VPN](Screenshots/no_vpn.png)
 
 #### With VPN
 All traffic was sent as encrypted TLS packets to a single VPN server. No DNS or website information was visible.
