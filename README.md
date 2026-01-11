@@ -21,7 +21,7 @@ Screenshots/no_vpn.png
 #### With VPN
 All traffic was sent as encrypted TLS packets to a single VPN server. No DNS or website information was visible.
 
-![VPN On](vpn_screenshots/vpn_on.png)
+![VPN On](Screenshots/vpn_on.png)
 
 ### Security Impact
 VPN prevents ISPs and attackers on the same network from seeing browsing activity by encrypting all traffic inside a secure tunnel.
